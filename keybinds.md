@@ -1,6 +1,6 @@
 ~~~
 C-k           kill-line (-o- commits)
-C-y           save (move kill-line -> C-k)
+C-m s         save (move kill-line -> C-k)
 C-s           find (move save -> C-y)
 M-s           find class
 C-S-s         find file (-o- syncing)
@@ -25,8 +25,10 @@ M-d           delete-word-fw (---)
 M-Backspace   delete-word-bw (-o- undo)
 C-S-.         fold all out
 C-t           Navigate point-to-declaration
+C-y           center screen here
 
-C-m     DEF center screen here
+
+
 C-l     DEF find-next
 C-S-l   DEF find-previous
 C-r     DEF replace
