@@ -1,11 +1,13 @@
 ~~~
-C-k           kill-line (-o- commits)
-C-m s         save (move kill-line -> C-k)
-C-s           find (move save -> C-y)
-M-s           find class
-C-S-s         find file (-o- syncing)
-M-S-s         recent files (-o- save context)
-C-M-s         open settings
+C-m s         save
+C-m c         find class
+C-m f         find file
+C-m r         recent files
+C-m o         open new file
+
+C-s           find (move save -> C-m s)
+
+
 C-f           fw (move find -> C-s)
 M-f           fw word (-o- File menu)
 C-b           bw (-o- Navigate point-to-declaration)
@@ -14,8 +16,12 @@ C-p           up (-o- Various unclear functions)
 C-n           down (move find class -> M-s)
 M-p           page up (---)
 M-n           page down (-o- Navigate menu)
-C-M-p         goto top (-o- Extract parameter)
-C-M-n         goto bottom (-o- Refactor inline)
+C-m p         goto top (-o- Extract parameter)
+C-m n         goto bottom (-o- Refactor inline)
+
+gotten to here
+
+
 C-h           Refactor
 M-w           select-all (-o- Window menu)
 C-a           beginning-of-line (move select-all -> M-w)
@@ -23,12 +29,13 @@ C-e           end-of-line (move recent files -> M-S-s)
 C-d           delete (-o- Duplicate line or selection)
 M-d           delete-word-fw (---)
 M-Backspace   delete-word-bw (-o- undo)
+C-k           kill-line (-o- commits)
 C-S-.         fold all out
 C-t           Navigate point-to-declaration
 C-y           center screen here
 
 
-
+C-M-s   DEF open settings
 C-l     DEF find-next
 C-S-l   DEF find-previous
 C-r     DEF replace
