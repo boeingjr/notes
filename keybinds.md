@@ -12,7 +12,6 @@ C-m ...       <can be made true>
 
 C-c r         Refactor rename this
 C-c f         Refactor rename file
-C-c t         
 C-c t         surround with [], (), etc
 C-c ...       <give command>
 
