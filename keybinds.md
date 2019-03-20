@@ -1,5 +1,12 @@
 Change to Emacs keybinds, then do
 ~~~
+REMOVE
+C-x b         Switcher  (Does not work properly)
+
+THEN ADD
+C-TAB         Switcher
+C-S-TAB       Switcher
+
 C-x c         find class
 C-x r         recent files
 C-x q         recent changes
