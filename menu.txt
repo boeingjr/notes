@@ -1,0 +1,84 @@
+# torsdag 20200806
+frokost:
+gulrot
+middag:
+nudler, kikerter, 2 egg, stangselleri
+kvelds:
+2 skiver brød med 1 boks makrell i tomat
+
+# fredag 20200807
+frokost:
+1 skive brød med smøreost
+1 gulrot
+middag:
+joikakaker med ris og erter
+kvelds:
+1 skive brød med smør, kokt egg og majones
+1 skive brød med cottage cheese og paprika
+
+lørdag 20200808
+frokost:
+1 skive brød med smøreost
+1 gulrot
+middag:
+tomatbønner med ris, 1 egg, stangselleri og hvitløk
+kvelds:
+2 skiver brød med 1 boks makrell i tomat
+
+søndag 20200809
+frokost:
+1 skive brød med smøreost
+1 gulrot
+middag:
+stekt kjøttdeig, spaghetti, stangselleri
+kvelds:
+1 skive brød med smør, kokt egg og majones
+1 skive brød med cottage cheese og paprika
+
+mandag 20200810
+frokost:
+1 skive brød med smøreost
+1 gulrot
+middag:
+tomatbønner med 1 egg, stangselleri og hvitløk
+kvelds:
+2 skiver brød med 1 boks makrell i tomat
+
+tirsdag 20200811
+onsdag 20200812
+torsdag 20200813
+fredag 20200814
+lørdag 20200815
+søndag 20200816
+
+mandag 20200810
+tirsdag 20200811
+onsdag 20200812
+torsdag 20200813
+fredag 20200807
+lørdag 20200808
+søndag 20200809
+
+mandag 20200810
+tirsdag 20200814
+onsdag 20200812
+torsdag 20200813
+fredag 20200807
+lørdag 20200808
+søndag 20200809
+
+mandag 20200810
+tirsdag 20200811
+onsdag 20200812
+torsdag 20200813
+fredag 20200807
+lørdag 20200808
+søndag 20200809
+
+mandag 20200810
+tirsdag 20200811
+onsdag 20200812
+torsdag 20200813
+fredag 20200807
+lørdag 20200808
+søndag 20200809
