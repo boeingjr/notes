@@ -1,5 +1,9 @@
 # Meny
 
+## Oppskriftsamlinger
+
+[Kikerter](http://www.veganmisjonen.com/2015/10/8-oppskrifter-med-kikerter.html)
+
 ## ukesmål:
 - 6 epler og pærer (min)
 - 7 gulrøtter (min)
