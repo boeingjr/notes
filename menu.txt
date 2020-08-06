@@ -13,6 +13,8 @@ middag:
 nudler, 0.5 boks kikerter, 2 egg, 1 buljongterning, stangselleri (kok stangselleri i 8 minutter i buljongvann)
 kvelds:
 2 skiver brød med smør og 1 boks makrell i tomat
+test:
+[kikertsnacks](http://www.veganmisjonen.com/2014/09/oppskrift-sunnere-snacks-kikerter.html)
 
 # fredag 20200807
 frokost:
