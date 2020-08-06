@@ -1,11 +1,11 @@
 # Meny
 
 ## ukesmål:
-6 epler og pærer (min)
-7 gulrøtter (min)
-2 bananer (min/max)
-2 bokser makrell i tomat (min/max) (hamstre på tilbud)
-6 flasker pepsi max (max) (hamstre på tilbud)
+- 6 epler og pærer (min)
+- 7 gulrøtter (min)
+- 2 bananer (min/max)
+- 2 bokser makrell i tomat (min/max) (hamstre på tilbud)
+- 6 flasker pepsi max (max) (hamstre på tilbud)
 
 ## torsdag 20200806
 ### frokost:
