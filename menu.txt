@@ -1,31 +1,38 @@
+ukesmål:
+6 epler
+7 gulrøtter
+2 bananer
+2 bokser makrell i tomat
+
 # torsdag 20200806
 frokost:
-gulrot
+1 jødekake
+1 gulrot
 middag:
-nudler, kikerter, 2 egg, stangselleri
+nudler, 0.5 boks kikerter, 2 egg, 1 buljongterning, stangselleri (kok stangselleri i 8 minutter i buljongvann)
 kvelds:
-2 skiver brød med 1 boks makrell i tomat
+2 skiver brød med smør og 1 boks makrell i tomat
 
 # fredag 20200807
 frokost:
-1 skive brød med smøreost
+1 jødekake
 1 gulrot
 middag:
-joikakaker med ris og erter
+joikakaker med ris og kikerter (test :c)
 kvelds:
 1 skive brød med smør, kokt egg og majones
 1 skive brød med cottage cheese og paprika
 
-lørdag 20200808
+# lørdag 20200808
 frokost:
 1 skive brød med smøreost
 1 gulrot
 middag:
 tomatbønner med ris, 1 egg, stangselleri og hvitløk
 kvelds:
-2 skiver brød med 1 boks makrell i tomat
+2 skiver brød med smør og 1 banan
 
-søndag 20200809
+# søndag 20200809
 frokost:
 1 skive brød med smøreost
 1 gulrot
@@ -33,52 +40,52 @@ middag:
 stekt kjøttdeig, spaghetti, stangselleri
 kvelds:
 1 skive brød med smør, kokt egg og majones
-1 skive brød med cottage cheese og paprika
+1 skive brød med smør, cottage cheese og paprika
 
-mandag 20200810
+# mandag 20200810
 frokost:
 1 skive brød med smøreost
 1 gulrot
 middag:
 tomatbønner med 1 egg, stangselleri og hvitløk
 kvelds:
-2 skiver brød med 1 boks makrell i tomat
+2 skiver brød med smør og 1 boks makrell i tomat
 
-tirsdag 20200811
+# tirsdag 20200811
+frokost:
+1 skive brød med smøreost
+1 gulrot
+middag:
+frossenrett (fryser oppe), 1 skive brød med smør, egg og majones
+kvelds:
+2 skiver brød med smør og banan
 onsdag 20200812
 torsdag 20200813
 fredag 20200814
 lørdag 20200815
 søndag 20200816
 
-mandag 20200810
-tirsdag 20200811
-onsdag 20200812
-torsdag 20200813
-fredag 20200807
-lørdag 20200808
-søndag 20200809
+mandag 20200817
+tirsdag 20200818
+onsdag 20200819
+torsdag 20200820
+fredag 20200821
+lørdag 20200822
+søndag 20200823
 
-mandag 20200810
-tirsdag 20200814
-onsdag 20200812
-torsdag 20200813
-fredag 20200807
-lørdag 20200808
-søndag 20200809
+mandag 20200824
+tirsdag 20200825
+onsdag 20200826
+torsdag 20200827
+fredag 20200828
+lørdag 20200829
+søndag 20200830
 
-mandag 20200810
-tirsdag 20200811
-onsdag 20200812
-torsdag 20200813
-fredag 20200807
-lørdag 20200808
-søndag 20200809
+mandag 20200831
+tirsdag 20200901
+onsdag 20200902
+torsdag 20200903
+fredag 20200904
+lørdag 20200905
+søndag 20200906
 
-mandag 20200810
-tirsdag 20200811
-onsdag 20200812
-torsdag 20200813
-fredag 20200807
-lørdag 20200808
-søndag 20200809
