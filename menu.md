@@ -29,52 +29,54 @@
 ### middag:
 - joikakaker med ris, fløteskvett, og 0.5 boks kikerter (test :c)
 ### kvelds:
-- 1 skive brød med smør, kokt egg og majones
-- 1 skive brød med cottage cheese og paprika
-- 1 eple/pære
+- kikertsnacks
 
 ## lørdag 20200808
 ### frokost:
 - 0.7 jødekake
 - 1 gulrot
 ### middag:
-- tomatbønner med ris, 1 egg, stangselleri og hvitløk
+- .5kg lasagne
 ### kvelds:
-- 2 skiver brød med smør og 1 banan
-- 1 eple/pære
+- øl og ølpølser
 
 ## søndag 20200809
 ### frokost:
-- 1 skive brød med smøreost
 - 1 gulrot
 ### middag:
-- stekt kjøttdeig, spaghetti, stangselleri, ketchup
+- 0.5kg lasagne, snop
 ### kvelds:
-- 1 skive brød med smør, kokt egg og majones
-- 1 skive brød med smør, cottage cheese og paprika
-- 1 eple/pære
+- øl, ølpølser, kikertsnacks
 
 ## mandag 20200810
 ### frokost:
-- 1 skive brød med smøreost
 - 1 gulrot
+- 1 eple
 ### middag:
-- tomatbønner med 1 egg, stangselleri og hvitløk
+- 0.5kg lasagne, 0.5pk iskrem
 ### kvelds:
-- 2 skiver brød med smør og 1 boks makrell i tomat
-- 1 eple/pære
+- øl, ølpølser, snop
 
 ## tirsdag 20200811
+### frokost:
+- 2 skiver brød med banan
+### middag:
+- 0.5kg lasagne, 0.5pk iskrem
+### kvelds:
+- 2 skiver brød med 
+- 1 eple/pære
+
+## onsdag 20200812
 ### frokost:
 - 1 skive brød med smøreost
 - 1 gulrot
 ### middag:
 - frossenrett (fryser oppe), 1 skive brød med smør, egg og majones
 ### kvelds:
-- 2 skiver brød med smør og banan
+- 1 skive brød med smør, kokt egg og majones
+- 1 skive brød med cottage cheese og paprika
 - 1 eple/pære
 
-## onsdag 20200812
 ## torsdag 20200813
 ## fredag 20200814
 ## lørdag 20200815
